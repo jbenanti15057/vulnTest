@@ -1,5 +1,5 @@
 # This workflow will build a Java project with Maven, and cache/restore any dependencies to improve the workflow execution time
-# It will then run Veracode Pipeline Scanner and SCA Agent scans to simulate a feature branch commit
+# It will then run Veracode Pipeline Scanner and SCA Agent scans to simulate a feature branch commit.
 
 name: Java CI with Maven
 
